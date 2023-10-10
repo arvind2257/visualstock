@@ -7,8 +7,8 @@
 - npm >= 8.19.2 (`$ npm i -g npm`)
 
 #### 2. Installation
-- `$ git clone https://github.com/chqbook/jobs.git`
-- `$ cd jobs && npm install`
+- `$ git clone https://github.com/arvind2257/visualstock.git`
+- `$ cd visualstock && npm install`
 
 #### 3. Mysql
 - `install mysql && configure`
